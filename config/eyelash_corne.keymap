@@ -93,7 +93,7 @@
 &trans  &kp EXCL      &kp AT      &kp HASH          &kp LS(GRAVE)   &kp PRCNT                                               &mmv MOVE_UP                   &kp CARET              &kp AMPS         &kp KP_MULTIPLY    &kp SLASH      &kp GRAVE        &trans
 &trans  &kp QUESTION  &kp DOLLAR  &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS                    &mmv MOVE_LEFT  &mkp LCLK     &mmv MOVE_RIGHT  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp BACKSLASH  &kp PRINTSCREEN  &trans
 &trans  &kp PIPE      &kp UNDER   &kp KP_EQUAL      &kp PLUS        &kp KP_MINUS          &mmv MOVE_DOWN                    &none                          &none                  &none            &none              &none          &kp INSERT       &trans
-                                  &trans            &trans          &kp RET                                                                                &trans                 &trans
+                                  &trans            &trans          &kp RET                                                                                &trans                 &trans           &trans
             >;
 
             sensor-bindings = <&scroll_encoder>;
